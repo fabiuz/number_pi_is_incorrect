@@ -1,17 +1,37 @@
 # number_mi
 # numero_mi.
 
-Não sou formado em matemática, mas gosto de matemática, nestas últimas semanas, resolvi aprofundar no cálculo da circunferência, depois que havia comprado um transferidor, compasso, e um esquadro, e lido um livro com desenho geométrico. E tava tentando calcular o perímetro do transferidor, como ele é graduado, fica fácil identificar se estou medido corretamente.
-Quando calculava a circunferência do transferidor, utilizando pi, nunca coincide com minha medida, será que estou medindo errado, depois destas argumentações, depois, de quase 1 mês, este repositório demonstrará minhas conclusões. O valor pi está incorreto.
+Autor:      Fábio Moura de Oliveira.
+Data:       01/10/2023
+Assunto:    Valor do número pi está incorreto.
 
-Neste repositório irei demonstrar:
+Resumo:
+    Este repositório demonstra meu esforço intelectual após 1 mês, tentando entender por que o número pi: 3,141519 ao ser multiplicado pelo raio estava alguns milìmetros acima.
 
-Que o valor da constante pi está incorreta, será que convencionaram baseado na ideia de arquimedes, realmente, eu estive analisando a ideia de arquimedes, e criei até uma fórmula, a medida que aumenta o número de lado, o número 3,1415, vai aparecendo aos poucos, entretanto, irei provar que este número está errado. No programa que fiz utilizando a fórmula baseado na ideia de arquimedes, eu utilizei até chegar em um polígono de 4194304 lados. Irei demonstrar por que nunca Arquimedes atingirá o comprimento, baseando na minha ideia do número mi e da constante mi.
+Tese:
+    Número pi está incorreto.
 
-Se o número pi está incorreto, como calcular a circunferência???
-Irei demonstrar geometricamente como calcular o perímetro e em seguida, com base nisto, demonstrar como chegar à fórmula.
+Apresentação.
+    Não sou formado em matemática, e sim, em análise e desenvolvimento de sistemas, embora tenha uma boa base de matemática, se me perguntares, o que é seno, cosseno, tangente, saberei explicar tranquilamente.
 
-Irei demonstrar o número mi e a constante mi e por que arquimedes nunca atingirá o comprimento baseado na ideia do número mi.
+    Irei explicar, brevemente, por que resolvi calcular o perímetro, não foi por caso.
 
-Em breve, irei postar pdfs demonstrando minhas conclusões.
+    Eu havia comprado transferidor, compasso e esquadro, havia os guardados. Passado meses, resolvi, ler um livro sobre desenho geométrico, que acabei achando aqui em casa, dos livros que ficam armazenados.
+
+    Achei, algumas ideias interessantes, por exemplo, dividir segmento de retas proporcionalmente utilizando o compasso, achar o ponto médio de um segmento. Então, resolvi praticar. E uma destas praticas, era fazer circunferências, achar o centro da circunferência utilizando três pontos da circunferência. Então, resolvi, medir a circunferência, utilizando uma fita, dava volta no transferidor e depois, colocava a fita no papel e media o segmento, fazia várias tentativas, pra ter certeza, aí, consulta utilizando a fórmula, às vezes era bem próximo. Aí, depois, tive a brilhante ideia de deslocar no papel de tal forma que fosse em linha reta de um ponto ao outro, a precisão seria melhor. Então, quando eu aplicava a constante pi sobre o raio, a medida não coincidia sempre uns 2 mílimetros pra frente, então foi aí que tudo começou.
+
+Observações:
+    Daqui, alguns dias, irei enviar pdfs neste repositório, explicando detalhadamente.
+
+Assuntos:
+
+* Demonstração geométrica de como calcular a circunferência de um círculo.
+* Demonstração algébrica de como obter a fórmula que calcula o comprimento da circunferência sem utilizar pi.
+* Demonstração geométrica de como calcular a área de um círculo.
+* Demonstração algébrica de como obter a constante mi.
+* Número mi, o que é.
+* Por que a constante pi está incorreta???
+* Por que Arquimedes nunca alcançará o raio.
+* Qual é o futuro de pi???
+
 
