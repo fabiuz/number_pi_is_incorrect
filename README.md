@@ -4,12 +4,11 @@ This my native language is portuguese, the translation for english is on the end
 
 **Observação**:
 
-    O conteúdo deste repositório é sério, tudo é explicado matematicamente, demonstrado geometricamente e algebricamente.
+#### O conteúdo deste repositório é sério, tudo SERÁ explicado matematicamente, demonstrado geometricamente e algebricamente.
 
-    Sou formado em análise e desenvolvimento de sistemas, não sou formado em matemática.
+Não sou formado em matemática e sim em análise e desenvolvimento de sistemas
 
-    Não precisa ser formado em matemática, pra descobrir algo. Entretanto, uma pessoa não formada em matemática afirmar que algo está errado, onde todos utilizam há anos    
-    você precisa de evidências e precisa demonstrar com o rigor matemático que é necessário. Este é meu objetivo.
+#### Não precisa ser formado em matemática, pra descobrir algo. Entretanto, uma pessoa não formada em matemática afirmar que algo está errado, onde todos utilizam há anos você precisa de evidências e precisa demonstrar com o rigor matemático que é necessário. Este é meu objetivo.
 
 **Autor**:      Fábio Moura de Oliveira.
 
@@ -59,7 +58,12 @@ Assuntos:
 
 **Observation**: 
 
-    The content of this repository is serious, everything is explained mathematically, demonstrated geometrically and algebraically. I have a degree in systems analysis and development, I don't have a degree in mathematics. You don't have to have a degree in mathematics to figure something out. However, a person not trained in mathematics claims that something is wrong, which everyone has been using for years You need evidence, and you need to demonstrate with the mathematical rigor that is required. That's my goal.
+#### The content of this repository is serious, everything WILL BE explained mathematically, demonstrated geometrically and algebraically. 
+
+I don't have in degree in mathematics, but, on
+degree in systems analysis and development.
+
+#### You don't have to have a degree in mathematics to figure something out. However, a person not trained in mathematics claims that something is wrong, which everyone has been using for years You need evidence, and you need to demonstrate with the mathematical rigor that is required. That's my goal.
 
 **Subject**:    Valor do número pi está incorreto.
 
@@ -69,10 +73,9 @@ Assuntos:
 **Thesis**:
     The number pi is incorrect.
 
-
 **Presentation:**
 
- I do not have a degree in mathematics, but in systems analysis and development, although I have a good foundation in mathematics, if you ask me, what is sine, cosine, tangent, I will know how to explain easily. I will explain, briefly, why I decided to calculate the perimeter, it was not by chance. I had bought protractor, compass and square, there were the saved. After months, I decided to read a book about geometric drawing, which I ended up finding here at home, the books that are stored.
+I do not have a degree in mathematics, but in systems analysis and development, although I have a good foundation in mathematics, if you ask me, what is sine, cosine, tangent, I will know how to explain easily. I will explain, briefly, why I decided to calculate the perimeter, it was not by chance. I had bought protractor, compass and square, there were the saved. After months, I decided to read a book about geometric drawing, which I ended up finding here at home, the books that are stored.
 
 I found some interesting ideas, for example, to divide segment of lines proportionally using the compass, to find the midpoint of a segment. So I decided to practice. And one of these practices was to make circles, to find the center of the circumference using three points of the circumference. So, I decided, measure the circumference, using a tape, go around the protractor and then, put the tape on the paper and measured the segment, made several attempts, to be sure, then, query using the formula, sometimes it was very close. Then, afterwards, I had the brilliant idea of moving on paper in such a way that it was in a straight line from one point to another, the accuracy would be better. So when I applied the constant pi over the radius, the measurement didn't always coincide about 2 millimeters forward, so that's where it all started.
 
