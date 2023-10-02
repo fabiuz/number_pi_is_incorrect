@@ -1,11 +1,15 @@
-# number_mi
-# numero_mi.
-
 This my native language is portuguese, the translation for english is on the end of page.
 
-Observação:
-O conteúdo deste repositório é sério, tudo é explicado matematicamente, demonstrado geometricamente e algebricamente.
+## Demonstração matemática e algébrica que o valor de pi está incorreto.
 
+**Observação**:
+
+    O conteúdo deste repositório é sério, tudo é explicado matematicamente, demonstrado geometricamente e algebricamente.
+
+    Sou formado em análise e desenvolvimento de sistemas, não sou formado em matemática.
+
+    Não precisa ser formado em matemática, pra descobrir algo. Entretanto, uma pessoa não formada em matemática afirmar que algo está errado, onde todos utilizam há anos    
+    você precisa de evidências e precisa demonstrar com o rigor matemático que é necessário. Este é meu objetivo.
 
 **Autor**:      Fábio Moura de Oliveira.
 
@@ -21,7 +25,7 @@ O conteúdo deste repositório é sério, tudo é explicado matematicamente, dem
 **Tese**:
     Número pi está incorreto.
 
-Apresentação.
+**Apresentação:**
 Não sou formado em matemática, e sim, em análise e desenvolvimento de sistemas, embora tenha uma boa base de matemática, se me perguntares, o que é seno, cosseno, tangente, saberei explicar tranquilamente.
 
 Irei explicar, brevemente, por que resolvi calcular o perímetro, não foi por caso.
@@ -32,8 +36,6 @@ Achei, algumas ideias interessantes, por exemplo, dividir segmento de retas prop
 
 **Observações**:
 O conteúdo deste repositório é sério, tudo é explicado matematicamente, demonstrado geometricamente e algebricamente.
-
-Não precisa ser um matemático, pra descobrir algo. Entretanto, afirmar que algo está errado, onde todos utilizam há anos, você precisa de evidências e precisa demonstrar com o rigor matemático que é necessário.
 
 O conteúdo deste repositório será arquivos pdf, com explicações detalhadas, estou redigindo o conteúdo do papel no computador, os desenhos estou utilizando o programa qCad, sou iniciante no qCad, mas estou indo muito bem.
 
@@ -52,6 +54,12 @@ Assuntos:
 
 ***Version: English***
 *Much of the content was translated in google translate, I can read, however, to write in English, I have some difficulties, still.*
+
+## Mathematical and algebraic proof that the value of pi is incorrect. 
+
+**Observation**: 
+
+    The content of this repository is serious, everything is explained mathematically, demonstrated geometrically and algebraically. I have a degree in systems analysis and development, I don't have a degree in mathematics. You don't have to have a degree in mathematics to figure something out. However, a person not trained in mathematics claims that something is wrong, which everyone has been using for years You need evidence, and you need to demonstrate with the mathematical rigor that is required. That's my goal.
 
 **Subject**:    Valor do número pi está incorreto.
 
